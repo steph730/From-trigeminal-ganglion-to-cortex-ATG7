@@ -1,4 +1,4 @@
-# From trigeminal ganglion to cortex: ATG7 emerges as a key integrator of migraine pathways via multi-omics profiling
+# From trigeminal ganglion to cortex - ATG7
 
 This study employs a multi-omics approach to delineate the molecular pathways of migraine, spanning from the peripheral trigeminal ganglion to the central cortex. Through integrative analysis of transcriptomic and proteomic datasets, we identified ATG7 as a critical hub gene, implicating autophagy and other key cellular processes in migraine pathophysiology.
 
